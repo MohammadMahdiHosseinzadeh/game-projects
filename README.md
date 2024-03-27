@@ -1,2 +1,3 @@
-# game-projects
-بازی های ساده با زبان پایتون
+Some simple games in Python
+
+چند بازی ساده به زبان پایتون
